@@ -7,6 +7,7 @@ class main:
 
     def run(self):
         print("test")
+	print("another　one")
 
 
 app = main()
